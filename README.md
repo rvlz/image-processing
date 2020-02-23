@@ -1,5 +1,15 @@
 # Image Processing Projects
 
+# Data Exploration Projects
+* [Projects](#projects)
+  * [Applying a Fourier Transform to Images](#applying-a-fourier-transform-to-images)
+* [Installation](#installation)
+
+## Projects
+### Applying a Fourier Transform to Images
+ * [nbviewer](https://nbviewer.jupyter.org/github/rvlz/image-processing/blob/master/notebooks/fourier_transform.ipynb)
+
+## Installation
 Clone project
 ~~~
 git clone git@github.com:rvlz/image-processing.git
