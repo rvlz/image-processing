@@ -1,6 +1,4 @@
 # Image Processing Projects
-
-# Data Exploration Projects
 * [Projects](#projects)
   * [Applying a Fourier Transform to Images](#applying-a-fourier-transform-to-images)
 * [Installation](#installation)
